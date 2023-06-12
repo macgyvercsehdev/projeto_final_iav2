@@ -8,7 +8,11 @@ Original file is located at
 """
 
 '''
-João Victor Bandeira dos Anjos, João Victor Ferreira Gomes, Luiz Fernando Ferreira Messias Ribeiro, Macgyver Cseh dos Santos, Wellington Gomes da Silva 
+João Victor Bandeira dos Anjos - 125111353789
+João Victor Ferreira Gomes - 125111378508 
+Luiz Fernando Ferreira Messias Ribeiro - 125111345712
+Macgyver Cseh dos Santos - 125111362389
+Wellington Gomes da Silva - 125111348398
 '''
 #importando as bibliotecas do scikit-learn
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
