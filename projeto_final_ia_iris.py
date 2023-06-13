@@ -8,7 +8,7 @@ Original file is located at
 """
 
 '''
-João Victor Bandeira dos Anjos - 125111353789
+João Victor Bandeira dos Anjos - 125111353789.
 João Victor Ferreira Gomes - 125111378508 
 Luiz Fernando Ferreira Messias Ribeiro - 125111345712
 Macgyver Cseh dos Santos - 125111362389
